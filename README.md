@@ -33,3 +33,11 @@ A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine
 **Results Summary**
 
 ![alt text](<images/vehicle acceptability confusion matrix.png>)
+
+## SciKit Learn - K-Means Clustering with PCA
+
+[Notebook](SciKit_Learn_K_Means_Clustering.ipynb)
+
+**Results Summary**
+
+![alt text](<images/kmeans cluster of PCA.png>)
