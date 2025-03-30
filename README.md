@@ -41,3 +41,11 @@ A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine
 **Results Summary**
 
 ![alt text](<images/kmeans cluster of PCA.png>)
+
+## SciKit Learn - Principal Component Analysis
+
+[Notebook](SciKit_Learn_Principal_Component_Analysis.ipynb)
+
+**Result Summary**
+
+![alt text](<images/3d PCA.png>)
