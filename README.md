@@ -26,7 +26,7 @@ A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine
 
 ![alt text](<images/random forest confusion matrix.png>)
 
-## SciKit Learn - Support Vactor Machine
+## SciKit Learn - Support Vector Machine
 
 [Notebook](SciKit_Learn_Support_Vector_Machine.ipynb)
 
