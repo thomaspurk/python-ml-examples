@@ -1,6 +1,6 @@
 # Python Machine Learning Examples
 
-A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine learning Python packages and modules.
+A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine learning techniques in Python.
 
 ## SciKit Learn - Logistic Regression
 
@@ -49,3 +49,11 @@ A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine
 **Result Summary**
 
 ![alt text](<images/3d PCA.png>)
+
+## Pandas - Pairwise Correlation
+
+[Notebook](Pandas_Pairwise_Correlation.ipynb)
+
+**Result Summary**
+
+![alt text](<images/pandas pairwise correlation.png>)
